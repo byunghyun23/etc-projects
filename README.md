@@ -2,7 +2,7 @@
 ### Web
 1. [HAECHI: SmartContract Security Diagnostic Tool - client(web)](https://github.com/byunghyun23/haechi-web) - Solidity Analyzer, Java, SpringBoot
 
-### App
+### Android
 1. .
 
 ### ETC
